@@ -1,0 +1,8 @@
+Thumbs.db
+Desktop.ini
+
+# Local preview or generated artifacts
+portfolio-preview.png
+
+# OS/editor noise
+.DS_Store
