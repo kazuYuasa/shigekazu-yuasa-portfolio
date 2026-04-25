@@ -280,7 +280,7 @@ body::before {
 
 .portrait-frame {
   position: absolute;
-  inset: 52px 34px 88px 74px;
+  inset: 18px 34px 122px 74px;
   border-radius: 42px;
   overflow: hidden;
   border: 1px solid rgba(255, 255, 255, 0.12);
