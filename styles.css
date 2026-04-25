@@ -140,7 +140,7 @@ body::before {
 }
 
 .hero h1 {
-  font-size: clamp(2.8rem, 5.8vw, 4.9rem);
+  font-size: clamp(2.4rem, 4.8vw, 4.1rem);
   max-width: 8.5em;
 }
 
